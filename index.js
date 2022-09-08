@@ -1,3 +1,6 @@
+console.log('Node');
+
+/*
 //link page creation
 const generateHTML = require('./src/generateHTML');
 
@@ -32,3 +35,4 @@ addManager()
   .catch(err => {
  console.log(err);
   });
+  */
